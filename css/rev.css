@@ -1,0 +1,11 @@
+.rev-video-container.center {
+    text-align: center;
+}
+
+.rev-video-container.left {
+    text-align: left;
+}
+
+.rev-video-container.right {
+    text-align: right;
+}
